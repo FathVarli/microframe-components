@@ -9,7 +9,7 @@ const MicroframeTextField: React.FC<TextFieldProps> = ({ label, placeholder }) =
       placeholder={placeholder ? placeholder : (label as string)}
       sx={{
         '& .MuiInputBase-input': {
-          fontSize: 12,
+          fontSize: 13,
         },
         minWidth: '300px',
         maxWidth: '600px',
