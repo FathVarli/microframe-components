@@ -1,6 +1,6 @@
 {
   "name": "microframe-components",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "This project MicroFrame package boilerplate",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
